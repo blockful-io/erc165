@@ -1,0 +1,25 @@
+{
+  "name": "eip165",
+  "version": "1.0.0",
+  "description": "Get InterfaceId from a given contract ABI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockful-io/eip165.git"
+  },
+  "keywords": [
+    "eip165",
+    "eip-165",
+    "interface",
+    "interfaceid"
+  ],
+  "author": "Blockful",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockful-io/eip165/issues"
+  },
+  "homepage": "https://github.com/blockful-io/eip165#readme"
+}
