@@ -29,7 +29,7 @@ npm install eip165
 
 ### GIT
 
-#### naming the branches
+#### Naming the branches
 
 Development branches must be created from the dev branch, checking out with the command `git checkout dev`.
 
@@ -40,7 +40,7 @@ Development branches must be created from the dev branch, checking out with the 
 
 > Remember to create the branch name in English, using the ES6 standard, with the name in lowercase and separated by a hyphen.
 
-#### commit pattern
+#### Commit pattern
 
 The commits in Git can be done in Portuguese and describing well what the actions present in this commit. Remember to commit at least once a day. You can also do several commits to separate well what is going into the repository. Imagining a commit to fix the text of a button, you could use the command `git commit -m "fix callback"` and the commando `git push` to push code and commit to repository.
 
