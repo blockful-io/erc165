@@ -12,7 +12,7 @@ Functions for generating interface ID from smart contracts following ERC-165 req
 
 
 ```
-yarn install eip165
+yarn add eip165
 ```
 ou  
 ```
