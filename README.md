@@ -21,7 +21,7 @@ npm install eip165
 
 ## How to start developing and testing this project :clipboard:
 
-1. Before you start, make sure your environment is ready for React development, as per the official instructions described here. [https://nodejs.org/en/download/package-manager/](https://nodejs.org/en/download/package-manager/).
+1. Before you start, make sure your environment is ready for NodeJS development, as per the official instructions described here. [https://nodejs.org/en/download/package-manager/](https://nodejs.org/en/download/package-manager/).
 2. Clone this repository using the command ``` git clone < project-url.git > ```.
 3. Install project dependencies using ``` yarn ```.
 
