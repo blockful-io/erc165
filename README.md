@@ -13,7 +13,7 @@ or
 
 ## Learn
 
-Read the entire article about the implementation (here)[https://medium.com/@guihcneves/erc165-2e1a03a03280].
+Read the entire article about the implementation [here](https://medium.com/@guihcneves/erc165-2e1a03a03280).
 
 ## Usage
 

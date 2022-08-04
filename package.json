@@ -1,6 +1,6 @@
 {
   "name": "erc165",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get interface id from a given contract ABI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
