@@ -1,18 +1,38 @@
 # erc165
-Functions for generating interface ID from smart contracts following ERC-165 requirements
 
-## demo
+![Blockful logo](https://avatars.githubusercontent.com/u/107982496?s=200&v=4)
 
-[site](https://eip165-demo.vercel.app)
+Easily calculate the byte4 interfaceId from a given contract ABI file.
 
-[repository](https://github.com/blockful-io/erc165-example) using this lib in hardhat tests
+## Installation
 
-## **Install**
-
-```
-yarn add eip165
-```
+```npm i erc165```
 or
-```
-npm install eip165
-```
+```yarn add erc165```
+
+
+## Learn
+
+Read the entire article about the implementation (here)[https://medium.com/@guihcneves/erc165-2e1a03a03280].
+
+## Usage
+
+Install it with npm in your project and require the library:
+```const erc165 = require("erc165");```.
+
+Then call the function by doing
+```erc165.interfaceIdFromABI( object )```
+
+## Contributing
+
+Please help better the ecosystem by submitting issues, pull requests or contacting to pitch an idea.
+
+## Links
+
+- Project homepage: http://blockful.io
+- Repository: https://github.com/blockful-io
+
+
+## Licensing
+
+This project is licensed under the MIT license.
