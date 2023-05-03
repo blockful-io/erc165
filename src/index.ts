@@ -8,7 +8,7 @@ export const interfaceIdFromABI = (abi: any): string => {
 
     // Parse ABI and encode its functions
     const functionSelectors = abi
-      .filter((e: any) => e.type === "function")
+      .filter((e: any) => e.type === "function" || e.type === "error")
       .flatMap((e: any) => `${encodeSelector(prepareData(e))}`);
 
     // Xor the output values and convert to hex
